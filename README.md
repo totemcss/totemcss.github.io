@@ -1,1 +1,1 @@
-Project website [totemcss.github.io](http://totem.github.io)
+Project website [totemcss.github.io](http://totemcss.github.io)
